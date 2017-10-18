@@ -1,0 +1,123 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  margin: 0;
+  color: #012143;
+}
+
+.top-icon h1 {
+  margin:0; 
+  padding:50px 
+  40px; 
+  text-align:center;
+  
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 52px;
+}
+
+
+h2 {
+  background-color: #012143;
+  color: gold;
+  padding:20px;
+}
+
+
+h3 {
+  text-align:center;
+}
+
+
+.container {
+  padding-left:20px; 
+  padding-right:20px;
+}
+
+title {
+  position: relative;
+  top: 10px;
+  bottom: 150px;
+}
+
+
+
+
+/* Hero Image - Team Photo */
+
+.teamphoto img {
+  width:100%;
+  position: relative;
+}
+
+
+
+
+/* Navigation Bar */
+
+.navigation {
+  background:#012143; 
+  padding:10px;
+  font-size: 25px;
+}
+
+.navigation ul {
+  padding:0;
+  text-align:center;
+} 
+
+.navigation li {
+  display:inline-block; 
+  list-style: none;
+}
+
+.navigation li a {
+  padding:30px; 
+  text-decoration: none;
+  color: gold;
+  display: inline-block;
+}
+
+.navigation li a:hover {
+  color: gray; 
+}
+
+
+/* Roster */
+.roster {
+  
+} 
+
+/* Gallery */
+
+
+
+
+.topbutton {
+  float: right;
+  position:absolute;
+  background-color:none;
+  font-size: 25px;
+  bottom:-950px;
+  right: 10px;
+  color:gold;
+}
+
+
+.topbutton a hover {
+  color:gray;
+}
+
+
+#headingformat {
+  position:relative;
+}
+
+
